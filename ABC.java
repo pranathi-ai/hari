@@ -1,4 +1,4 @@
-class Add
+class ABC
 {
  public static void main(String args[])
   {
